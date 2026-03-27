@@ -1,5 +1,7 @@
 # go-arena
 
+<p align="center"><img src="gopher.png" width="350"></p>
+
 Learning Go concurrency by doing. Each folder is a standalone program you can run and tinker with.
 
 ```
